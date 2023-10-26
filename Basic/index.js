@@ -1,3 +1,3 @@
 import express from 'express'
 
-express()
+express();
